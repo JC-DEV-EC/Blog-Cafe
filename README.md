@@ -1,7 +1,7 @@
 # Blog Café
 
 ![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)
-![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-orange.svg)
+![Estado del Proyecto](https://img.shields.io/badge/estado-finalizado-green.svg)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-brightgreen.svg)
 
 Bienvenido al repositorio del **Blog Café**, un espacio dedicado a compartir contenido sobre café, recetas, técnicas de preparación y todo lo relacionado con esta fascinante bebida. Este proyecto está diseñado para ser una fuente de información y un punto de encuentro para los amantes del café.
