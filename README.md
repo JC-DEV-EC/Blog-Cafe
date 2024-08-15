@@ -4,8 +4,6 @@
 ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-orange.svg)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-brightgreen.svg)
 
-![Logo del Blog Café](https://user-images.githubusercontent.com/121910576/257302088-d2a9edb6-75e5-4118-aaba-6f53da7715dc.png)
-
 Bienvenido al repositorio del **Blog Café**, un espacio dedicado a compartir contenido sobre café, recetas, técnicas de preparación y todo lo relacionado con esta fascinante bebida. Este proyecto está diseñado para ser una fuente de información y un punto de encuentro para los amantes del café.
 
 ## 📋 Tabla de Contenidos
