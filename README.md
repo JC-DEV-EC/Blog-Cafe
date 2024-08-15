@@ -1,6 +1,3 @@
-
-
-```markdown
 # Blog Café
 
 ![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)
