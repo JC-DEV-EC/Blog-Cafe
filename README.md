@@ -70,8 +70,3 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos 
 ## 📜 Licencia
 
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [`LICENSE`](LICENSE).
-
----
-
-¡Gracias por visitar el **Blog Café**! Esperamos que disfrutes del contenido y te animes a compartir tu amor por el café.
-```
